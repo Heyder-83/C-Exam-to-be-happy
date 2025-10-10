@@ -4,9 +4,8 @@
 Una panadería desea llevar un registro de sus clientes frecuentes y las ventas realizadas. El dueño quiere saber quiénes son sus mejores clientes y qué productos se venden más.
 
 ## Requerimientos
-- Registrar clientes con nombre, teléfono y correo.
-- Registrar ventas con cliente, producto, cantidad y fecha.
+- Permitir registrar hasta 3 clientes (nombre, teléfono y correo) y hasta 3 ventas (cliente, producto, cantidad y fecha) usando solo variables primitivas.
 - Consultar el historial de ventas por cliente.
 - Mostrar los productos más vendidos.
 - Mostrar los clientes con más compras.
-- Utilizar estructuras de datos para almacenar clientes y ventas.
+- No se permite el uso de arreglos, listas, ni estructuras de datos compuestas.

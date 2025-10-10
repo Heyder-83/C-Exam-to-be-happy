@@ -4,8 +4,8 @@
 Un consultorio médico necesita organizar las citas de sus pacientes. El doctor quiere registrar nuevas citas, consultar la agenda del día, cancelar citas y ver el historial de pacientes atendidos.
 
 ## Requerimientos
-- Registrar una cita con nombre del paciente, fecha, hora y motivo.
+- Permitir registrar hasta 3 citas (nombre del paciente, fecha, hora y motivo) usando solo variables primitivas.
 - Consultar la agenda de citas para un día específico.
-- Cancelar una cita por nombre y fecha.
+- Cancelar una cita por nombre y fecha (dejando los valores en cero o vacíos).
 - Consultar el historial de pacientes atendidos.
-- Utilizar estructuras de datos para gestionar la agenda y el historial.
+- No se permite el uso de arreglos, listas, ni estructuras de datos compuestas.
